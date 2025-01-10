@@ -14,6 +14,7 @@
 Answer: The name of the directory that the `mvn archectype:generate` command creates is achac021_lab1
 
 - ***(Q2) What do you see at the console output when you run the `java` command?***
+
 Answer: The console output when I run the `java` command is "Hello World!".
 
 - ***(Q3) Which of the following is the right way to call the `IsEven` function?***
