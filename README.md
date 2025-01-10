@@ -21,10 +21,13 @@ Answer: The console output when I run the `java` command is "Hello World!".
     - IsEven(5)
     - IsEven.apply(5)
     - new IsEven().apply(5)
+ 
   Answer: The correct way to call the `IsEven` function is IsEven.apply(5).
 
 - ***(Q4) Did the program compile after you added the `base=0` line?***
+
 Answer: No, the program did not compile after I added this line.
 
 - ***(Q5) If your answer to (Q4) is No, what is the error message you get?***
+
 Answer: The error message I got is: "local variables referenced from a lambda expression must be final or effectively final"
